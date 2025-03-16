@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Ullin ✨
 
-🧠 Student a University Duisburg*-Essen<br/>
+🧠 Student a University Duisburg-Essen<br/>
 🌱 I’m currently learning AI/ML and datascience<br/>
 🔭 I’m currently working on An AI chatbot(Home Assistant)<br/>
 📫 How to reach me: www.linkedin.com/in/yanounoe
